@@ -11,3 +11,8 @@ target
 *.ear
 test-output/
 .DS_Store
+
+# Eclipse Files
+.settings/
+.classpath
+.project

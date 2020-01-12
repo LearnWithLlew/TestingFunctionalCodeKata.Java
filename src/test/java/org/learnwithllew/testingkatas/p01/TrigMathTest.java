@@ -10,15 +10,14 @@ import org.junit.Test;
  * Tools: EclEmma (Test Coverage)
  *        ApprovalTests (verification package)
  */
-public class TrigMathTest
-{
+public class TrigMathTest {
   @Test
-  public void test()
-  {
+  public void test() {
+    TrigMath.acos(0);
     fail("Not yet implemented");
   }
-  private void assertDouble(double expected, double actual)
-  {
+
+  private void assertDouble(double expected, double actual) {
     assertEquals(expected + "", actual + "");
   }
 }

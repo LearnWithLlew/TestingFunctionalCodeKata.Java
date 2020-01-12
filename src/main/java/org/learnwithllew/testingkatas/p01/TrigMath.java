@@ -1,6 +1,4 @@
-package main.java.org.learnwithllew.testingkatas.p01;
-
-import org.learnwithllew.testingkatas.p01.GenericMath;
+package org.learnwithllew.testingkatas.p01;
 
 /*
  * This file is part of Flow Math, licensed under the MIT License (MIT).
